@@ -1,0 +1,26 @@
+{
+  "name": "book_bazaar",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "BookBazaar"
+  },
+  "keywords": [
+    "Complete",
+    "Backend"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "nodemon": "^3.1.10"
+  }
+}
