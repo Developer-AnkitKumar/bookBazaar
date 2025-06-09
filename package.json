@@ -4,11 +4,11 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "test": "npm run dev"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "BookBazaar"
+    "url": "https://github.com/Developer-AnkitKumar/BookBazaar.git"
   },
   "keywords": [
     "Complete",
@@ -21,6 +21,7 @@
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "express-validator": "^7.2.1",
+    "mongoose": "^8.15.1",
     "nodemon": "^3.1.10"
   }
 }
