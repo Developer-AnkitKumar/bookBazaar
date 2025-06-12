@@ -1,5 +1,4 @@
 import bcrypt from 'bcrypt';
-import db from '../config/db.js';
 import jwt from 'jsonwebtoken';
 import User from '../models/user.models.js';
 
